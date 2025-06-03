@@ -1,6 +1,6 @@
 # Real-Time Options Data Streaming from Schwab API Python Script
 
-This script is a robust Python application designed to stream live market data for 0 Days to Expiration (0DTE) S&P 500 Index (SPX) options using the Charles Schwab API. It integrates WebSocket streaming, REST API calls, and PostgreSQL storage to deliver a high-performance platform for capturing and analyzing real-time options data. The script dynamically adapts to SPX price movements, ensuring relevant option strikes are tracked, and persists data for downstream analysis. This README provides a comprehensive overview of the workflow, structure, advantages, and usage, showcasing the script's technical depth and programming expertise.
+This script is a robust Python application designed to stream live market data for 0 Days to Expiration (0DTE) S&P 500 Index (SPX) options using the Charles Schwab API. It integrates WebSocket streaming, REST API calls, and PostgreSQL storage to deliver a high-performance platform for capturing and analyzing real-time options data. The script dynamically adapts to SPX price movements, ensuring relevant option strikes are tracked, and persists data for downstream analysis. 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
